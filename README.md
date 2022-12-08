@@ -13,7 +13,7 @@ Stock Market Real-Time Data Analysis Using Kafka | End-To-End Data Engineering P
 
 <h3>Overview</h3>
 
-The stock market has a lot of stocks and at the end of the day, the website will provide nseindia.com/market-data/ in CSV formate. 
+The stock market has a lot of stocks and at the end of the day, the website will provide https://www.nseindia.com/market-data/ in CSV formate. 
 
 The website is not provided with an EXPORT option as CSV or any other formate. 
 
