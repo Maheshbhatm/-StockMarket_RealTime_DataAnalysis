@@ -13,7 +13,7 @@ Stock Market Real-Time Data Analysis Using Kafka | End-To-End Data Engineering P
 
 <h3>Overview</h3>
 
-The stock market has a lot of stocks and at the end of the day, the website will provide https://money.rediff.com/ Gainer and Losers. Based on this we can plan our investment or swing trading ideas. 
+The stock market has a lot of stocks and at the end of the day, the website will provide nseindia.com/market-data/ in CSV formate. 
 
 The website is not provided with an EXPORT option as CSV or any other formate. 
 
@@ -28,16 +28,13 @@ Also, we can sort according to NSE or BSE data.
 
 <h3>Used Tool or Tech</h3>
 <ul>
-  <li>Azure Cloud for Storage</li>
-  <li>DataBricks</li> 
-  <li>Pyspark</li> 
-  <li>Resource Group</li>
+  <li>Kafka</li>
+  <li>AWS S3 Bucket</li>
+  <li>AWS Glue</li> 
+  <li>AWS Athena</li> 
+  <li>AWS EC2</li>
+  <li>AWS IAM</li>
 </ul>  
 
-<h3>Reference</h3>
-
-![image](https://user-images.githubusercontent.com/44454642/205293881-b7f29561-2074-4a9e-a722-c31c15095a0a.png)
-
-![image](https://user-images.githubusercontent.com/44454642/205294052-fc850bdf-9c9d-41f0-9cbf-8e69151b66c3.png)
 
 Thank You
