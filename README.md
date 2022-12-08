@@ -13,18 +13,12 @@ Stock Market Real-Time Data Analysis Using Kafka | End-To-End Data Engineering P
 
 <h3>Overview</h3>
 
-The stock market has a lot of stocks and at the end of the day, the website will provide https://www.nseindia.com/market-data/ in CSV formate. 
+The simulation of real time data from stock market and processing through KAFKA and storing it in S3 Buckets. Further moved to Database using Glue and queried using Athena.
 
-The website is not provided with an EXPORT option as CSV or any other formate. 
+The website will provide https://www.nseindia.com/market-data/ in CSV formate. 
+The Architect Diagram is designed by https://online.visual-paradigm.com/ website.
 
-The project is to demonstrate web scraping using SPARK and DataBricks in Azure. The small code will help us get the CSV data in Data Lake Storage.
-
-<h3>Source Date Files</h3>
-We are referring open-source data from website https://money.rediff.com/ 
-
-<h3>Filtering</h3>
-We can get the data based on the End of the Day, End of the week, and End of month percentage of changes. 
-Also, we can sort according to NSE or BSE data. 
+The project is referred from Darshil Parmar video. https://www.youtube.com/@DarshilParmar
 
 <h3>Used Tool or Tech</h3>
 <ul>
